@@ -1,11 +1,27 @@
 
-// Highlight div elements (remove when done)
+
 body {
 	background-color: LightGray;
 }
 
-div {
-	border: 1px solid Red;
+section {
+	border: 1px solid orange;
 }
-//
 
+div {
+  background-color: red;
+}
+
+.navbar {
+  margin-left: 10em;
+  margin-right: 10em;
+
+}
+
+.navbarlist > li {
+  display: inline-block;
+  color:yellow;
+  font-weight: bold;
+  margin-left: 5em;
+  margin-right: 5em;
+}
