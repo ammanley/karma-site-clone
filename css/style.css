@@ -21,3 +21,27 @@ img.logo {
     padding-top: 1em;
     padding-left: 1em;
 }
+
+.links{
+	float:right;
+}
+
+.links > li {
+	display: inline-block;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	color: #838994;
+	letter-spacing: 0.03em;
+	margin-top: .6em;
+	margin-left: 1em;
+
+}
+
+.links > .active {
+	color: #4c5058;
+	font-weight: 500;
+}
+
+.content {
+	padding-right:1em;
+}
