@@ -34,16 +34,16 @@ p  {
 }
 
 .content {
-	width:970px;
+	width:60%;
 	height:70px;
 	margin:0 auto;
-	padding-right: 20em;
+	min-width: 37.5em;
 }
 
 img.logo {
     border-style: none;
     padding-top: 1em;
-    padding-left: 16em;
+    padding-left: 1em;
 }
 
 .links{
@@ -113,6 +113,9 @@ img.logo {
 
 .bottom-text {
 	padding-top: 5em;
+	margin-left: auto;
+	margin-right: auto;
+	width: 741px;
 }
 
 .bottom-text > h2 {
@@ -128,7 +131,6 @@ img.logo {
 .bottom-text ul {
 	list-style: none;
 	text-align: center;
-	margin-left: 17.5em;
 	padding-bottom: 20em;
 	padding-left: 0;
 }
