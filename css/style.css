@@ -13,10 +13,16 @@ h1 {
 }
 
 h2 {
-	
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
 }
 
 h3 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+}
+
+p  {
 	font-family: 'Roboto', sans-serif;
 	font-weight: 100;
 }
@@ -106,4 +112,12 @@ img.logo {
 
 .spacer {
 	margin-bottom: 16em;
+}
+
+/*===========Bottom Section==================*/
+
+.bottom-text > h2 {
+	font-size: 2.75rem;
+	margin-top: 2.2em;
+	text-align:center;
 }
