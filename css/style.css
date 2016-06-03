@@ -13,8 +13,13 @@ h1 {
 }
 
 h2 {
+	
+}
+
+h3 {
 	font-family: 'Roboto', sans-serif;
 	font-weight: 100;
+}
 }
 
 
@@ -31,12 +36,13 @@ h2 {
 	width:970px;
 	height:70px;
 	margin:0 auto;
+	padding-right: 20em;
 }
 
 img.logo {
     border-style: none;
     padding-top: 1em;
-    padding-left: 1em;
+    padding-left: 16em;
 }
 
 .links{
@@ -52,10 +58,6 @@ img.logo {
 	margin-top: .6em;
 	margin-left: 1em;
 
-}
-
-.content {
-	padding-right:1em;
 }
 
 .top-navigation .links li:hover {
@@ -82,7 +84,26 @@ img.logo {
 
 }
 
-.background-text > h2 {
+.background-text > h3 {
 	font-size: 1.563rem;
 	margin-top: .4em;
+}
+
+.learn-more-button {
+	color: white;
+	background-color: #f15a29;
+	border-color: #f15a29;
+	border-style:none;
+	border-radius: 4px;
+	margin-top: .3em;
+	width: 9.6888rem;
+	height: 3.2em;
+	font-family: 'Roboto', sans-serif;
+	font-weight: normal;
+	font-size: 1.125rem;
+
+}
+
+.spacer {
+	margin-bottom: 16em;
 }
