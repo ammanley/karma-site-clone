@@ -141,3 +141,12 @@ img.logo {
 
 }
 
+/*===========Social media Links============*/
+
+.social-media {
+	text-align: center;
+}
+
+.social-media ul {
+	list-style: none;
+}
