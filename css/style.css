@@ -147,10 +147,11 @@ img.logo {
 
 .social-media {
 	text-align: center;
-	border-top: 1px solid #eaebec;
-	margin-left: 17em;
-	margin-right: 17em;
-	margin-bottom: 8em;
+    border-top: 1px solid #eaebec;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    margin-bottom: 8em
 }
 
 .social-media ul {
@@ -162,7 +163,7 @@ img.logo {
 	border-radius: 1.25rem;
 	border: 1px solid #eaebec;
 	width: 2.5rem;
-	height: 2.5rem;
+	/*height: 2.5rem;*/
 	display: inline-block;
 	padding: 0.625rem 0;
 	text-align: center;
