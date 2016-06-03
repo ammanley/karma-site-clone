@@ -26,8 +26,6 @@ p  {
 	font-family: 'Roboto', sans-serif;
 	font-weight: 100;
 }
-}
-
 
 /*============Top Nav Bar===========*/
 
@@ -149,4 +147,15 @@ img.logo {
 
 .social-media ul {
 	list-style: none;
+}
+
+.join-us {
+	font-weight: 400;
+	font-size: 1em;
+}
+
+.karma-mobility {
+	font-size: 0.9rem;
+    font-weight: 300;
+    color: #838994;
 }
