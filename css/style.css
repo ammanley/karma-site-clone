@@ -121,3 +121,23 @@ img.logo {
 	margin-top: 2.2em;
 	text-align:center;
 }
+
+.bottom-text p {
+	font-weight: 400;
+    font-size: 1.563rem;
+}
+
+.bottom-text ul {
+	list-style: none;
+	text-align: center;
+	margin-left: 17.5em;
+	padding-bottom: 20em;
+	padding-left: 0;
+}
+
+.bottom-text li {
+	width: 247px;
+	float: left;
+
+}
+
