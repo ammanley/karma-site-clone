@@ -33,6 +33,13 @@ p  {
 	-webkit-font-smoothing: antialiased;
 }
 
+.nav-bar-background {
+	background-color: white;
+    height: 70px;
+    width: 100%;
+    position: fixed;
+}
+
 .content {
 	width:60%;
 	height:70px;
@@ -103,17 +110,16 @@ img.logo {
 	font-family: 'Roboto', sans-serif;
 	font-weight: normal;
 	font-size: 1.125rem;
-
 }
 
-.spacer {
-	margin-bottom: 16em;
+.learn-more-button:hover {
+	background-color: #A42E08;
 }
 
 /*===========Bottom Section==================*/
 
 .bottom-text {
-	padding-top: 5em;
+	padding-top: 22em;
 	margin-left: auto;
 	margin-right: auto;
 	width: 60%;
